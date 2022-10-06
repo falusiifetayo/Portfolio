@@ -2,7 +2,7 @@
 # Portfolio
 
 Learn about HTML/CSS/Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
-[Live Heroku Development]([)](https://portfolio.tayofalusi.repl.co/)
+[Live Heroku Development](https://portfolio.tayofalusi.repl.co/)
 Tech used
 HTML
 css
